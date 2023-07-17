@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Ahmad Hamad</title>
+    <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/fr/tags/sql/</link>
+    <description>Recent content in SQL on Ahmad Hamad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ahmadhamad55.github.io/ahmadhamad_portfolio/fr/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet IV: Statistiques sur la dette internationale</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/fr/post/project-4/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/fr/post/project-4/</guid>
+      <description>Ce n&amp;rsquo;est pas seulement nous, les humains, qui contractons des dettes pour gérer nos besoins. Un pays peut également contracter une dette pour gérer son économie. Par exemple, les dépenses liées à l&amp;rsquo;infrastructure sont un élément coûteux nécessaire pour que les citoyens d&amp;rsquo;un pays mènent une vie confortable. La Banque mondiale est l&amp;rsquo;organisation qui accorde des prêts aux pays.
+Dans ce notebook, nous allons analyser les données sur la dette internationale collectées par la Banque mondiale.</description>
+    </item>
+    
+  </channel>
+</rss>
