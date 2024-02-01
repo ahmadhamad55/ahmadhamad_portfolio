@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Ahmad Hamad</title>
+    <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/tags/sql/</link>
+    <description>Recent content in SQL on Ahmad Hamad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ahmadhamad55.github.io/ahmadhamad_portfolio/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>project IV: International-Debt-Statistics</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-4/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-4/</guid>
+      <description>It&amp;rsquo;s not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country&amp;rsquo;s citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries. In this notebook, we are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories.</description>
+    </item>
+    
+  </channel>
+</rss>

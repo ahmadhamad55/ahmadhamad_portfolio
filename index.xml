@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data and Insights Portfolio on Ahmad Hamad</title>
+    <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/</link>
+    <description>Recent content in Data and Insights Portfolio on Ahmad Hamad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ahmadhamad55.github.io/ahmadhamad_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project XI: StackClassifier: Revolutionizing Content Organization in Stack Overflow through ML Streaming</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-11/</link>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-11/</guid>
+      <description>Within the realm of Natural Language Processing (NLP), our collaborative project, executed by a dynamic team of three, delves into the intricate task of enhancing the user experience on Stack Overflow. As an invaluable resource for programmers, Stack Overflow has initiated a comprehensive analysis of internal data spanning 15 years. However, a significant challenge emerged—some posts lack crucial data, specifically the tag or subject of the post. In response to this, our team of machine learning specialists embarked on constructing highly accurate ML models to predict missing tags in these posts.</description>
+    </item>
+    
+    <item>
+      <title>Project X: Stream Data with Spark Streaming</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-10/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-10/</guid>
+      <description>In this challenge, I successfully implemented a streaming pipeline using Spark Streaming. The challenge was divided into two parts.
+For the first part, I read and streamed data from CSV files, specifically the provided employee data and its schema. I prepared a read stream DataFrame to read from a specific location where the CSV files were stored. I then computed the average salary for male and female employees, along with the count for each group.</description>
+    </item>
+    
+    <item>
+      <title>Project IX: ETL Pipeline Automation with Airflow</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-9/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-9/</guid>
+      <description>In this challenge, I successfully automated an ETL (Extract, Transform, Load) pipeline using Airflow. The objective was to read a CSV file, perform the necessary transformations, and save it as a JSON file. I implemented the pipeline within the Airflow framework, allowing for frequent and scheduled execution based on the cron format. To accomplish this, I followed the following steps:
+Copying the CSV Data: I copied the CSV data file to a desired location where the ETL pipeline could access it.</description>
+    </item>
+    
+    <item>
+      <title>Project VIII: Predicting House Prices</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-8/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-8/</guid>
+      <description>In the Ames, Iowa House Prices Prediction project, I participated in a playground competition aimed at predicting the final prices of residential homes. With a dataset containing 79 explanatory variables, I delved into the intricacies of these homes to uncover the factors that significantly impact their prices. From the number of bedrooms to the proximity to a railroad, I explored the diverse range of features and their relationships with housing prices.</description>
+    </item>
+    
+    <item>
+      <title>Project VII: Spotify Data API with ETL Pipeline</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-7/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-7/</guid>
+      <description>In this project, I successfully built an ETL (Extract, Transform, Load) data pipeline using Python to gather data from the Spotify public API. The pipeline involves extracting data about a desired artist, transforming and validating the data, and loading it into a PostgreSQL database table. By leveraging the Spotify Developer platform, I created a developer account, generated the necessary credentials (Client ID and Client Secret), and built a Python project consisting of a main.</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Detecting Depression in Arabic Tweets</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-6/</guid>
+      <description>Depression is a prevalent mental disorder in the Arab world, with a significant increase in reported cases. Factors such as traumatic experiences, lack of mental health awareness, excessive use of social media, and reduced physical activity contribute to the rising rates of depression. In order to address this issue, a deep learning model utilizing AraBERTv0.2-Twitter-base, a pre-trained transformer-based language model specifically trained on Arabic Twitter data, was developed. This model allows for the classification of Arabic tweets as either indicating depression tendencies or not.</description>
+    </item>
+    
+    <item>
+      <title>Project V: Credit Cardd Decision Predictor</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-5/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-5/</guid>
+      <description>Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual&amp;rsquo;s credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays.</description>
+    </item>
+    
+    <item>
+      <title>project IV: International-Debt-Statistics</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-4/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-4/</guid>
+      <description>It&amp;rsquo;s not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country&amp;rsquo;s citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries. In this notebook, we are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Analyzing NYC Public School Test Result Scores</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-3/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-3/</guid>
+      <description>Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a maximum score of 800 points. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
+Analyzing the performance of schools is important for a variety of stakeholders, including policy and education professionals, researchers, government, and even parents considering which school their children should attend.</description>
+    </item>
+    
+    <item>
+      <title>Project II: The Android App Market on Google Play</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-2/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-2/</guid>
+      <description>Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We&amp;rsquo;ll look for insights in the data to devise strategies to drive growth and retention.
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project I: A Visual History of Nobel Prize Winners</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-1/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/post/project-1/</guid>
+      <description>The Nobel Prize is perhaps the world&amp;rsquo;s most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it&amp;rsquo;s given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it&amp;rsquo;s not biased in any way whatsoever.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/about/</guid>
+      <description>Welcome to my portfolio! I hold a Master&amp;rsquo;s degree in Mathematics, where my thesis delved into the intricate world of statistical machine learning. Currently pursuing a Master&amp;rsquo;s in Business Analytics, I bring to the table a unique blend of quantitative prowess and business acumen, creating a distinctive profile that seamlessly integrates the worlds of data and business strategy.
+My commitment to excellence is evidenced by my various data certifications. These credentials showcase my proficiency across a range of data-related domains, demonstrating dedication to staying at the forefront of industry best practices.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ahmadhamad55.github.io/ahmadhamad_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadhamad55.github.io/ahmadhamad_portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform LinkedIn: https://www.linkedin.com/in/ahmad-hamad-data GitHub: https://github.com/ahmadhamad55 </description>
+    </item>
+    
+  </channel>
+</rss>
